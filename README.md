@@ -10,7 +10,7 @@ Juego Desarrollado para la feria "FERIA + AFTER" del ITBA 2019
 - En el caso de necesitar recompilar el juego, abrir el proyecto en unity y darle "Build Project"
 
 ## Como Jugar
-El juego es Flappy Birds, pero multiplayer en player.
+El juego es Flappy Birds, pero multiplayer.
 Al costado de cada pajaro se puden ver las teclas con las cuales contralar el mismo.
 Al apretar la tecla correspondiente, el pajaro empezara a volar. 
 Para comenzar, apretar ENTER.
